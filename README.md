@@ -1,12 +1,10 @@
-Here’s an updated version of the `README.md` with a comment added to the "Roadmap" section about implementing a full settings GUI in the future. I’ve kept everything else the same as the previous version.
-
----
 
 # Hyprland Monitor Manager
 
 A Python-based GUI tool for managing monitors in the Hyprland window manager. Built with Tkinter and themed with Catppuccin Mocha, this script provides an intuitive interface to configure monitor resolutions, positions, display modes, and wallpapers.
 
 ![Hyprland Monitor Manager]
+
 ![image](https://github.com/user-attachments/assets/f265d155-fab5-4c8a-9383-2d3677d7193f)
 
 
@@ -115,26 +113,7 @@ A Python-based GUI tool for managing monitors in the Hyprland window manager. Bu
 - Some operations may require a short delay for Hyprland to apply changes.
 - Wallpaper features depend on external tools (`hyprpaper` or `swaybg`).
 
-## Contributing
 
-Contributions are welcome! To contribute:
-
-1. Fork the repository.
-2. Create a feature branch: `git checkout -b feature-name`.
-3. Commit your changes: `git commit -m "Add feature-name"`.
-4. Push to the branch: `git push origin feature-name`.
-5. Open a pull request.
-
-Please include:
-- A description of the change.
-- Any relevant screenshots or test cases.
-
-## Roadmap
-
-- Save/load monitor profiles.
-- Undo functionality for recent changes.
-- Graphical preview of monitor layouts.
-- CLI mode for non-GUI usage.
 - *Full settings GUI in the future to manage all Hyprland configurations in one place.*
 
 ## License
