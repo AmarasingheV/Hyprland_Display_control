@@ -61,13 +61,13 @@ A Python-based GUI tool for managing monitors in the Hyprland window manager. Bu
 
 3. **Run the Script**:
    ```bash
-   python3 hyprland_monitor_manager.py
+   python3 monitor_8_final.py
    ```
 
    Alternatively, make it executable:
    ```bash
-   chmod +x hyprland_monitor_manager.py
-   ./hyprland_monitor_manager.py
+   chmod +x monitor_8_final.py
+   ./monitor_8_final.py
    ```
 
 ## Usage
