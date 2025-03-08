@@ -48,7 +48,7 @@ A Python-based GUI tool for managing monitors in the Hyprland window manager. Bu
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/AmarasingheV/hyprland-monitor-manager.git
+   git clone https://github.com/AmarasingheV/Hyprland_Display_control.git
    cd hyprland-monitor-manager
    ```
 
